@@ -1,0 +1,2 @@
+# myChat
+### a Sails application
