@@ -20,7 +20,7 @@ Installation
 --------------
 
 ```sh
-git clone github.com:navio/myChat.git myChat
+git clone github.com:navio/SailsJS-Chat-Example.git myChat
 cd myChat
 npm install
 sails lift
